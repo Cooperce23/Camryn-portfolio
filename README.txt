@@ -1,0 +1,1 @@
+Open index.html in a browser to preview the complete portfolio. All three Evercrest PDFs are included in documents/ and linked from the website. The dashboard preview image is in assets/. Keep the folder structure intact when moving or publishing the website. The Evercrest project uses synthetic data.\n
